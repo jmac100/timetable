@@ -1,0 +1,427 @@
+[
+  {
+    "day": "monday",
+    "periods": [
+      {
+        "period": "period 1",
+        "end_time" : "9:05",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "8:15",
+        "subject" : "PREP"
+      },
+      {
+        "period": "period 2",
+        "end_time" : "9:55",
+        "home_room_teacher" : "Kwai Pun",
+        "room" : "Portable 1",
+        "start_time" : "9:05",
+        "subject" : "French 6_1"
+      },
+      {
+        "period": "recess",
+        "end_time" : "10:15",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "9:55",
+        "subject" : ""
+      },
+      {
+        "period": "snack",
+        "end_time" : "10:35",
+        "home_room_teacher" : "",
+        "room" : "208 - 216",
+        "start_time" : "10:15",
+        "subject" : "duty"
+      },
+      {
+        "period": "period 3",
+        "end_time" : "11:35",
+        "home_room_teacher" : "Reed",
+        "room" : "Portable 3",
+        "start_time" : "10:35",
+        "subject" : "French 6_3"
+      },
+      {
+        "period": "period 4",
+        "end_time" : "12:15",
+        "home_room_teacher" : "Watson",
+        "room" : "213",
+        "start_time" : "11:35",
+        "subject" : "French 5_3"
+      },
+      {
+        "period": "recess2",
+        "end_time" : "12:45",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "12:15",
+        "subject" : ""
+      },
+      {
+        "period": "lunch",
+        "end_time" : "12:45",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "12:15",
+        "subject" : ""
+      },
+      {
+        "period": "period 5",
+        "end_time" : "13:45",
+        "home_room_teacher" : "Cavicchia",
+        "room" : "212",
+        "start_time" : "13:05",
+        "subject" : "French 5_1"
+      },
+      {
+        "period": "period 6",
+        "end_time" : "14:45",
+        "home_room_teacher" : "Coombs",
+        "room" : "210",
+        "start_time" : "13:45",
+        "subject" : "French 5_2"
+      }
+    ]
+  },
+  {
+    "day": "tuesday",
+    "periods": [
+      {
+        "period": "period 1",
+        "end_time" : "9:05",
+        "home_room_teacher" : "Reed",
+        "room" : "Portable 3",
+        "start_time" : "8:15",
+        "subject" : "French 6_3"
+      },
+      {
+        "period": "period 2",
+        "end_time" : "9:55",
+        "home_room_teacher" : "Malholtra",
+        "room" : "Portable 2",
+        "start_time" : "9:05",
+        "subject" : "French 6_2"
+      },
+      {
+        "period": "recess",
+        "end_time" : "10:15",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "9:55",
+        "subject" : ""
+      },
+      {
+        "period": "snack",
+        "end_time" : "10:35",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "10:15",
+        "subject" : ""
+      },
+      {
+        "period": "period 3",
+        "end_time" : "11:35",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "10:35",
+        "subject" : "PREP"
+      },
+      {
+        "period": "period 4",
+        "end_time" : "12:15",
+        "home_room_teacher" : "Coombs",
+        "room" : "210",
+        "start_time" : "11:35",
+        "subject" : "French 5_2"
+      },
+      {
+        "period": "recess2",
+        "end_time" : "12:45",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "12:15",
+        "subject" : ""
+      },
+      {
+        "period": "lunch",
+        "end_time" : "12:45",
+        "home_room_teacher" : "",
+        "room" : "Junior / Intermediate Field",
+        "start_time" : "12:15",
+        "subject" : "duty"
+      },
+      {
+        "period": "period 5",
+        "end_time" : "13:45",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "13:05",
+        "subject" : "PREP"
+      },
+      {
+        "period": "period 6",
+        "end_time" : "14:45",
+        "home_room_teacher" : "Watson",
+        "room" : "213",
+        "start_time" : "13:45",
+        "subject" : "French 5_3"
+      }
+    ]
+  },
+  {
+    "day": "wednesday",
+    "periods": [
+      {
+        "period": "period 1",
+        "end_time" : "9:05",
+        "home_room_teacher" : "Cavicchia",
+        "room" : "212",
+        "start_time" : "8:15",
+        "subject" : "French 5_1"
+      },
+      {
+        "period": "period 2",
+        "end_time" : "9:55",
+        "home_room_teacher" : "Kwai Pun",
+        "room" : "Portable 1",
+        "start_time" : "9:05",
+        "subject" : "French 6_1"
+      },
+      {
+        "period": "recess",
+        "end_time" : "10:15",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "9:55",
+        "subject" : ""
+      },
+      {
+        "period": "snack",
+        "end_time" : "10:35",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "10:15",
+        "subject" : ""
+      },
+      {
+        "period": "period 3",
+        "end_time" : "11:35",
+        "home_room_teacher" : "Malholtra",
+        "room" : "Portable 2",
+        "start_time" : "10:35",
+        "subject" : "French 6_2"
+      },
+      {
+        "period": "period 4",
+        "end_time" : "12:15",
+        "home_room_teacher" : "Reed",
+        "room" : "Portable 3",
+        "start_time" : "11:35",
+        "subject" : "French 6_3"
+      },
+      {
+        "period": "recess2",
+        "end_time" : "12:45",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "12:15",
+        "subject" : ""
+      },
+      {
+        "period": "lunch",
+        "end_time" : "12:45",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "12:15",
+        "subject" : ""
+      },
+      {
+        "period": "period 5",
+        "end_time" : "13:45",
+        "home_room_teacher" : "Watson",
+        "room" : "213",
+        "start_time" : "13:05",
+        "subject" : "French 5_3"
+      },
+      {
+        "period": "period 6",
+        "end_time" : "14:45",
+        "home_room_teacher" : "Gord",
+        "room" : "Gym",
+        "start_time" : "13:45",
+        "subject" : "Phys Ed 2/3_1, 3_3"
+      }
+    ]
+  },
+  {
+    "day": "thursday",
+    "periods": [
+      {
+        "period": "period 1",
+        "end_time" : "9:05",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "8:15",
+        "subject" : "PREP"
+      },
+      {
+        "period": "period 2",
+        "end_time" : "9:55",
+        "home_room_teacher" : "Cavicchia",
+        "room" : "212",
+        "start_time" : "9:05",
+        "subject" : "French 5_1"
+      },
+      {
+        "period": "recess",
+        "end_time" : "10:15",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "9:55",
+        "subject" : ""
+      },
+      {
+        "period": "snack",
+        "end_time" : "10:35",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "10:15",
+        "subject" : ""
+      },
+      {
+        "period": "period 3",
+        "end_time" : "11:35",
+        "home_room_teacher" : "Kwai Pun",
+        "room" : "Portable 1",
+        "start_time" : "10:35",
+        "subject" : "French 6_1"
+      },
+      {
+        "period": "period 4",
+        "end_time" : "12:15",
+        "home_room_teacher" : "Malholtra",
+        "room" : "Portable 2",
+        "start_time" : "11:35",
+        "subject" : "French 6_2"
+      },
+      {
+        "period": "recess2",
+        "end_time" : "12:45",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "12:15",
+        "subject" : ""
+      },
+      {
+        "period": "lunch",
+        "end_time" : "12:45",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "12:15",
+        "subject" : ""
+      },
+      {
+        "period": "period 5",
+        "end_time" : "13:45",
+        "home_room_teacher" : "Coombs",
+        "room" : "210",
+        "start_time" : "13:05",
+        "subject" : "French 5_2"
+      },
+      {
+        "period": "period 6",
+        "end_time" : "14:45",
+        "home_room_teacher" : "Watson",
+        "room" : "213",
+        "start_time" : "13:45",
+        "subject" : "French 5_3"
+      }
+    ]
+  },
+  {
+    "day": "friday",
+    "periods": [
+      {
+        "period": "period 1",
+        "end_time" : "9:05",
+        "home_room_teacher" : "Malholtra",
+        "room" : "Portable 2",
+        "start_time" : "8:15",
+        "subject" : "French 6_2"
+      },
+      {
+        "period": "period 2",
+        "end_time" : "9:55",
+        "home_room_teacher" : "Reed",
+        "room" : "Portable 3",
+        "start_time" : "9:05",
+        "subject" : "French 6_3"
+      },
+      {
+        "period": "recess",
+        "end_time" : "10:15",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "9:55",
+        "subject" : ""
+      },
+      {
+        "period": "snack",
+        "end_time" : "10:35",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "10:15",
+        "subject" : ""
+      },
+      {
+        "period": "period 3",
+        "end_time" : "11:35",
+        "home_room_teacher" : "Cavicchia",
+        "room" : "212",
+        "start_time" : "10:35",
+        "subject" : "French 5_1"
+      },
+      {
+        "period": "period 4",
+        "end_time" : "12:15",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "11:35",
+        "subject" : "PREP"
+      },
+      {
+        "period": "recess2",
+        "end_time" : "12:45",
+        "home_room_teacher" : "",
+        "room" : "Creative Playground",
+        "start_time" : "12:15",
+        "subject" : "duty"
+      },
+      {
+        "period": "lunch",
+        "end_time" : "12:45",
+        "home_room_teacher" : "",
+        "room" : "",
+        "start_time" : "12:15",
+        "subject" : ""
+      },
+      {
+        "period": "period 5",
+        "end_time" : "13:45",
+        "home_room_teacher" : "Kwai Pun",
+        "room" : "Portable 1",
+        "start_time" : "13:05",
+        "subject" : "French 6_1"
+      },
+      {
+        "period": "period 6",
+        "end_time" : "14:45",
+        "home_room_teacher" : "Coombs",
+        "room" : "210",
+        "start_time" : "13:45",
+        "subject" : "French 5_2"
+      }
+    ]
+  }
+]

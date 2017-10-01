@@ -1,1 +1,61 @@
-/* You can add global styles to this file, and also import other style files */
+.no-gutters
+    padding: 0
+    margin: 0
+
+body
+    @extend .no-gutters
+    box-sizing: border-box
+
+h1
+    text-align: center
+h3
+    @extend .no-gutters
+
+h4
+    @extend .no-gutters
+
+h5
+    @extend .no-gutters
+
+.container
+    max-width: 700px
+    margin: 0 auto
+    padding: 30px 0
+    @media(min-width: 980px)
+        max-width: 100%
+        display: flex
+        justify-content: center
+
+.card
+    min-height: 200px
+    .card-header    
+        text-align: center
+        text-transform: capitalize
+        background: rgba(0,0,0,0.75)
+        padding: .8em 0
+        font-size: 1.2em
+        color: #fff
+        border-right: 1px solid #fff
+
+.card-item
+    border: 1px solid #000
+    min-height: 90px
+    display: grid
+    grid-template: "time details" / 1fr 2fr
+
+    .time
+        grid-area: time
+        white-space: nowrap
+        text-transform: capitalize
+        min-width: 100px
+        padding: 5px
+        font-weight: 600
+        border-right: 1px solid #000
+    .details
+        grid-area: details
+        text-align: center
+        padding: 5px 0
+        
+.active
+    background: teal
+    color: #fff

@@ -1,0 +1,21 @@
+<h1>Wendy's Timetable</h1>
+<div class="container" *ngIf="schedule">
+  <div class="card" *ngFor="let day of schedule">
+    <div class="card-header">
+      {{ day.day }}
+    </div>
+    <div class="card-content">
+      <div class="card-item" *ngFor="let period of day.periods">
+        <div class="time">
+          {{ period.period }}<br>
+          {{ period.start_time }} - {{ period.end_time }}
+        </div>
+        <div [class]="isActive(day.day, period) ? 'details active' : 'details'">
+          <h3>{{ period.subject }}</h3>
+          <h4>{{ period.home_room_teacher }}</h4>
+          <h5>{{ period.room }}</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
