@@ -12,11 +12,13 @@ import { HomeComponent } from './home/home.component';
 
 // 3rd party
 import { Ng2PageScrollModule } from "ng2-page-scroll";
+import { TimePipe } from './pipes/time.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+    TimePipe
   ],
   imports: [
     BrowserModule,

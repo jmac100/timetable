@@ -8,7 +8,7 @@
       <div [class]="isOffset(period) ? 'card-item offset' : 'card-item'" *ngFor="let period of day.periods">
         <div class="time">
           {{ period.period }}<br>
-          {{ period.start_time }} - {{ period.end_time }}
+          {{ period.start_time | time}} - {{ period.end_time | time }}
         </div>
         <div [class]="isActive(day.day, period) ? 'details active' : 'details'">
           <h3>{{ period.subject }}</h3>
