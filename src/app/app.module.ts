@@ -6,8 +6,12 @@ import { HttpModule } from "@angular/http";
 // services
 import { AppService } from "./services/app.service";
 
+// components
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
+
+// 3rd party
+import { Ng2PageScrollModule } from "ng2-page-scroll";
 
 @NgModule({
   declarations: [
@@ -17,6 +21,7 @@ import { HomeComponent } from './home/home.component';
   imports: [
     BrowserModule,
     HttpModule,
+    Ng2PageScrollModule.forRoot(),
     RouterModule.forRoot([
       { path: 'home', component: HomeComponent },
       { path:'**', redirectTo: '/home', pathMatch: 'full' }

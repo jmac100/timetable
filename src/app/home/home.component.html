@@ -5,7 +5,7 @@
       {{ day.day }}
     </div>
     <div class="card-content">
-      <div class="card-item" *ngFor="let period of day.periods">
+      <div [class]="isOffset(period) ? 'card-item offset' : 'card-item'" *ngFor="let period of day.periods">
         <div class="time">
           {{ period.period }}<br>
           {{ period.start_time }} - {{ period.end_time }}

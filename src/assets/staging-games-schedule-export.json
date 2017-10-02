@@ -32,7 +32,7 @@
         "home_room_teacher" : "",
         "room" : "208 - 216",
         "start_time" : "10:15",
-        "subject" : "duty"
+        "subject" : "Duty"
       },
       {
         "period": "period 3",
@@ -51,7 +51,7 @@
         "subject" : "French 5_3"
       },
       {
-        "period": "recess2",
+        "period": "recess",
         "end_time" : "12:45",
         "home_room_teacher" : "",
         "room" : "",
@@ -136,7 +136,7 @@
         "subject" : "French 5_2"
       },
       {
-        "period": "recess2",
+        "period": "recess",
         "end_time" : "12:45",
         "home_room_teacher" : "",
         "room" : "",
@@ -149,7 +149,7 @@
         "home_room_teacher" : "",
         "room" : "Junior / Intermediate Field",
         "start_time" : "12:15",
-        "subject" : "duty"
+        "subject" : "Duty"
       },
       {
         "period": "period 5",
@@ -221,7 +221,7 @@
         "subject" : "French 6_3"
       },
       {
-        "period": "recess2",
+        "period": "recess",
         "end_time" : "12:45",
         "home_room_teacher" : "",
         "room" : "",
@@ -306,7 +306,7 @@
         "subject" : "French 6_2"
       },
       {
-        "period": "recess2",
+        "period": "recess",
         "end_time" : "12:45",
         "home_room_teacher" : "",
         "room" : "",
@@ -391,7 +391,7 @@
         "subject" : "PREP"
       },
       {
-        "period": "recess2",
+        "period": "recess",
         "end_time" : "12:45",
         "home_room_teacher" : "",
         "room" : "Creative Playground",
